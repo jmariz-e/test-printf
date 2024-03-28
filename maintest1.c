@@ -11,14 +11,12 @@
 /* ************************************************************************** */
 
 #include "ft_printf.h"
-#include "libft/libft.h"
 #include "ft_printf.c"
 #include "ft_digit_per_chr.c"
 #include "ft_str.c"
 #include "ft_unsigned.c"
 #include "ft_hexa.c"
 #include "ft_address.c"
-#include "libft/ft_itoa.c"
 
 int main(void)
 {
